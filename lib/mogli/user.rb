@@ -75,6 +75,7 @@ module Mogli
       :xmpp_login,
       :ads_management,
       :user_checkins,
+      :friends_checkins,
 
       # page permissions
       :manage_pages
